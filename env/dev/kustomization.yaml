@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/jreid4insight/demo-app
-  newTag: latest
+  newTag: d6ae47f62db1b6214786c1ac1bf650d7a64b21ec
